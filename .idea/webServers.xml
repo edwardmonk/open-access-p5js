@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cbcc15eb-b467-4da3-9e07-14ad545a0c8f" name="Dev 01" url="https://monkel.dev.si.edu/open_access/edan_search/">
+        <fileTransfer rootFolder="/oss/monk/open_access" accessType="SFTP" host="10.4.152.84" port="22" sshConfigId="54aeaff2-1e3b-49dc-a687-47e9c4459dbc" sshConfig="monkel@10.4.152.84:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
